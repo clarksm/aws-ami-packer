@@ -1,0 +1,19 @@
+{
+  "variables": {
+    "instance_size": "t2.micro",
+    "ami_name": "",
+    "base_ami": "",
+    "ssh_username": "",
+    "vpc_id": "",
+    "subnet_id": ""
+  },
+  "builders": [
+  {
+  }
+  ],
+  "description": "AWS Image",
+  "provisioners": [
+  {
+  }
+  ]
+}
